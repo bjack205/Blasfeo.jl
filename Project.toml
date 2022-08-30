@@ -1,0 +1,8 @@
+name = "Blasfeo"
+uuid = "c844960b-d330-4982-8208-f1d97ddebb26"
+authors = ["Brian Jackson <bjack205@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+BinaryBuilder = "12aac903-9f7c-5d81-afc2-d9565ea332ae"
+Octavian = "6fd5a793-0b7e-452c-907f-f8bfe9c57db4"
